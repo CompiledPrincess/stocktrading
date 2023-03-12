@@ -10,3 +10,5 @@
 #### Copy the key that appears under the Token column (it should begin with pk_).
 
 #### In your terminal: $ export API_KEY=value
+
+#### IEX free token expires in 30 days.
