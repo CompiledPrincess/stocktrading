@@ -4,11 +4,11 @@
 
 #### Instructions of getting a token:
 ##### Visit iexcloud.io/cloud-login#/register/.
-#### Select the “Individual” account type, then enter your email address and a password, and click “Create account”.
-#### Once registered, scroll down to “Get started for free” and click “Select Start” to choose the free plan.
-#### Once you’ve confirmed your account via a confirmation email, visit https://iexcloud.io/console/tokens.
-#### Copy the key that appears under the Token column (it should begin with pk_).
+##### Select the “Individual” account type, then enter your email address and a password, and click “Create account”.
+##### Once registered, scroll down to “Get started for free” and click “Select Start” to choose the free plan.
+##### Once you’ve confirmed your account via a confirmation email, visit https://iexcloud.io/console/tokens.
+##### Copy the key that appears under the Token column (it should begin with pk_).
 
-#### In your terminal: $ export API_KEY=value
+##### In your terminal: $ export API_KEY=value
 
-#### IEX free token expires in 30 days.
+##### IEX free token expires in 30 days.
